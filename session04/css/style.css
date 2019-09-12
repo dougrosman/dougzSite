@@ -1,0 +1,87 @@
+
+body{
+    background-color:aqua;
+    background-image: url("images/icon.png");
+}
+
+
+
+p {
+    font-family: Helvetica, Arial, sans-serif;
+    color: red;
+}
+
+h1{
+
+color:purple;
+font-size:100px;
+
+}
+
+div{
+    background-color:white;
+    font-family: cursive;
+}
+
+#third-div{
+    font-size:50px;
+    color:blue;
+    background-color:red;
+    display:inline;
+    border-radius: 200px;
+}
+#my-image{
+    border-width:5px;
+    border-style:ridge;
+    border-color:grey;
+    border-radius:20px;
+}
+#millenials-thing{
+    margin-top:20px;
+    border-radius: 20px;
+    display:inline;
+    font-size:50px;
+    transition: 1000ms;
+    cursor:crosshair;
+    position:fixed;
+    top: 10px;
+    left: 50%;
+    opacity:0.3;
+}
+
+#millenials-thing:hover{
+    background-color:red;
+    opacity:1;
+}
+
+a{
+transition:1000ms;
+}
+a:hover{
+    color:red;
+    font-size:40px;
+}
+
+img{
+    width:50%;
+    opacity: 0.5;
+    transition:1000ms;
+}
+img:hover{
+    opacity: 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
